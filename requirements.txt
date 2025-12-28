@@ -152,3 +152,4 @@ urllib3==2.6.2
     #   types-requests
 fastapi==0.111.0  # ya latest stable
 uvicorn[standard]==0.23.2  # latest stable
+openai-agents==0.1.7  # ya jo latest stable version ho
