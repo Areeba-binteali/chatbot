@@ -98,8 +98,6 @@ python-dateutil==2.9.0.post0
     #   dateparser
     #   htmldate
 pytz==2025.2
-    # via dateparser
-pywin32==311
     # via portalocker
 pyyaml==6.0.3
     # via huggingface-hub
