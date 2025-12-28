@@ -150,3 +150,5 @@ urllib3==2.6.2
     #   requests
     #   trafilatura
     #   types-requests
+fastapi==0.111.0  # ya latest stable
+uvicorn[standard]==0.23.2  # latest stable
