@@ -127,7 +127,7 @@ def ingest_book():
             save_chunk(chunk, chunk_id, url)
             print(f"✅ Saved chunk {chunk_id}")
             chunk_id += 1
-            time.sleep(0.8)   # 🔥 throttle API
+            time.sleep(1.5)   # 🔥 throttle API
 
     print("\n✔️ DONE. Total chunks:", chunk_id - 1)
 
